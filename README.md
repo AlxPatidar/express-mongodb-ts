@@ -1,7 +1,7 @@
  
 # Quick Start
 
-  The quickest way to get started with Rent on cloud backend use [`github`](git://github.com/server.git) repository and clone as shown below:
+  The quickest way to get started with backend server use [`github`](git://github.com/server.git) repository and clone as shown below:
 
 ## Requirements
  * Have Node v10.16.3 or higher installed for better use
