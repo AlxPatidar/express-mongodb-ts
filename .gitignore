@@ -1,0 +1,51 @@
+# Ignore enviroment file
+.env
+
+# Ignore dependencies package
+node_modules
+
+# Ignore basic configuration
+*~
+*.pyc
+.grunt
+_SpecRunner.html
+_benchmarks_
+
+# Ignore build folder
+build/
+dist/
+public/
+
+remote-repo/
+coverage/
+
+# Ignore all cache related to module
+.module-cache
+
+# Ignore all log-files and temp-files.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+.log
+npm-debug.log
+package-lock.json
+package-error.log
+yarn-error.log
+
+# Ignore text editor configuration setup and workspace
+chrome-user-data
+.DS_STORE
+*.sublime-project
+*.sublime-workspace
+.idea
+*.iml
+.vscode
+*.swp
+*.swo
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key

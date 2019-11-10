@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"graphql-project.users"},{"v":2,"unique":true,"key":{"email":1},"name":"email_1","ns":"graphql-project.users","background":true}],"uuid":"2c7eb7b0ce9d4de2946d73842b87c3e1"}
